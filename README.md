@@ -104,17 +104,11 @@ _Students who already know basic programming in any language can skip this first
 
 ### Data Structures and Algorithms
 
-_The Algorithms courses are taught in Java. If students need to learn Java, they should take this course first_
+_Both resources use Python, so no additional language is needed_
 
-[Java Programming](https://java-programming.mooc.fi/)
+[Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds3/index.html)
 
-[Algorithms I: ArrayLists, LinkedLists, Stacks and Queues](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues)
-
-[Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-ii-binary-trees-heaps-skiplists-and-hashmaps)
-
-[Algorithms III: AVL and 2-4 Trees, Divide and Conquer Algorithms](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-iii-avl-and-2-4-trees-divide-and-conquer-algorithms)
-
-[Algorithms IV: Pattern Matching, Dijkstra’s, MST, and Dynamic Programming Algorithms](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-iv-pattern-matching-dijkstras-mst-and-dynamic-programming-algorithms)
+[Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 
 ### Databases
 
