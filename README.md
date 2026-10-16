@@ -90,7 +90,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 
 ### Introduction to Data Science
 
-[What is Data Science](https://www.coursera.org/learn/what-is-datascience)
+[Introduction to Data Science](https://www.edx.org/learn/data-science/ibm-introduction-to-data-science)
 
 ### Introduction to Computer Science
 
@@ -168,6 +168,10 @@ _All courses in this section use Python, so no additional language is needed. In
 [The Data Science Method](https://www.edx.org/learn/data-science/ibm-the-data-science-method)
 
 [Data Science: Wrangling](https://www.edx.org/course/data-science-wrangling)
+
+**Optional:** short hands-on practice
+
+- [Kaggle Learn](https://www.kaggle.com/learn) (free browser-based micro-courses on Pandas, Data Visualization, Data Cleaning and more)
 
 ### Machine Learning/Data Mining
 
