@@ -87,6 +87,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 - [Data Science Tools & Methods](#data-science-tools--methods)
 - [Machine Learning/Data Mining](#machine-learningdata-mining)
 - [Final project](#final-project)
+- [Supplemental Learning](#supplemental-learning)
 
 ### Introduction to Data Science
 
@@ -200,6 +201,16 @@ Students who would like more guidance in creating a project may choose to use a 
 A sample of options
 (many more are available, at this point you should be capable of identifying a series that is interesting and relevant to you)
 are available on [this page](extras/specializations.md).
+
+### Supplemental Learning
+
+_Optional. These overlap with topics above, but are full courses worth taking on their own_
+
+**UC Berkeley Data 8: Foundations of Data Science** (Python). Covers tables, visualization, sampling, hypothesis testing and regression with real data. Current lecture recordings require a Berkeley login, but everything below is public:
+
+- [Textbook: Computational and Inferential Thinking](https://inferentialthinking.com)
+- [Lecture videos](https://www.data8.org/su22/supplemental-videos.html) (recorded for the Data 8X online course)
+- [Labs, homework and projects](https://github.com/data-8/materials-fds-colab) (runs in Google Colab, no Berkeley account needed)
 
 ### Congratulations
 
