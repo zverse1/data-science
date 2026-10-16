@@ -162,9 +162,9 @@ _All courses in this section use Python, so no additional language is needed. In
 
 ### Data Science Tools & Methods
 
-[Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
+[Data Science Tools](https://www.edx.org/learn/data-science/ibm-data-science-tools)
 
-[Data Science Methodology](https://www.coursera.org/learn/data-science-methodology)
+[The Data Science Method](https://www.edx.org/learn/data-science/ibm-the-data-science-method)
 
 [Data Science: Wrangling](https://www.edx.org/course/data-science-wrangling)
 
@@ -180,7 +180,7 @@ _All courses in this section use Python, so no additional language is needed. In
 
 [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)
 
-[Process Mining](https://www.coursera.org/learn/process-mining)
+[A Hands-On Introduction to Process Mining](https://www.edx.org/learn/computer-programming/rwth-aachen-university-process-mining)
 
 ### Final project
 
