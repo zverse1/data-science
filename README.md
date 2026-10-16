@@ -104,11 +104,19 @@ _Students who already know basic programming in any language can skip this first
 
 ### Data Structures and Algorithms
 
-_Both resources use Python, so no additional language is needed_
+_All courses in this section use Python, so no additional language is needed. Introduction to Algorithms assumes discrete math, so take Mathematics for Computer Science first_
 
 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds3/index.html)
 
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
+
 [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+
+**Optional:** additional Python resources for extra practice or a different teaching style
+
+- [Programming, Data Structures and Algorithms using Python](https://nptel.ac.in/courses/106106145) (IIT Madras / NPTEL)
+- [Data Structures and Algorithms in Python](https://jovian.com/course/data-structures-and-algorithms-in-python) (Jovian)
+- [Algorithms and Data Structures](https://introcs.cs.princeton.edu/python/40algorithms/) from _Introduction to Programming in Python_ (Sedgewick, Wayne & Dondero)
 
 ### Databases
 
