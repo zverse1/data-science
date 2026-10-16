@@ -112,11 +112,12 @@ _All courses in this section use Python, so no additional language is needed. In
 
 [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 
-**Optional:** additional Python resources for extra practice or a different teaching style
+**Optional:** additional resources for extra practice, a different teaching style, or more depth
 
 - [Programming, Data Structures and Algorithms using Python](https://nptel.ac.in/courses/106106145) (IIT Madras / NPTEL)
 - [Data Structures and Algorithms in Python](https://jovian.com/course/data-structures-and-algorithms-in-python) (Jovian)
 - [Algorithms and Data Structures](https://introcs.cs.princeton.edu/python/40algorithms/) from _Introduction to Programming in Python_ (Sedgewick, Wayne & Dondero)
+- [Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) and [Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) (Stanford; language-agnostic and more theoretical, best taken after Introduction to Algorithms)
 
 ### Databases
 
@@ -152,11 +153,11 @@ _All courses in this section use Python, so no additional language is needed. In
 
 ### Statistics & Probability
 
+[Probability & Statistics](https://oli.cmu.edu/courses/probability-statistics-open-free/)
+
 [Introduction to Probability](https://projects.iq.harvard.edu/stat110/home)
 
-[Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
-
-[Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+[Statistics for Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/)
 
 [Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) ([Textbook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-python)) or [Statistical Learning With R by Stanford University on EdX](https://www.edx.org/learn/statistics/stanford-university-statistical-learning) ([Textbook](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-second-edition))
 
